@@ -1,0 +1,31 @@
+* {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  /* globales */
+}
+body {
+  background-color: #626eda;
+}
+h1 {
+  text-align: center;
+  padding: 30px;
+  background-color: #c63637;
+}
+h1 span {
+  color: gold;
+}
+
+.subtitulo {
+  display: block;
+  color: #c63637;
+  border: 1px solid black;
+  text-align: center;
+  background-color: goldenrod;
+  width: 25%;
+  margin: 0 auto;
+}
+.menu-navegacion {
+  display: flex;
+  justify-content:space-evenly;
+
+  margin-bottom: 70px;
+}
